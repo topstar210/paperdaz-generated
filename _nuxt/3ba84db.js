@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[110],{705:function(n,t,o){"use strict";var e=o(5),r=o(388);e({target:"String",proto:!0,forced:o(389)("fontsize")},{fontsize:function(n){return r(this,"font","size",n)}})}}]);
